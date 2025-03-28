@@ -1,0 +1,5 @@
+Collecting numpy
+  Using cached numpy-2.0.2-cp39-cp39-macosx_14_0_arm64.whl.metadata (60 kB)
+Using cached numpy-2.0.2-cp39-cp39-macosx_14_0_arm64.whl (5.3 MB)
+Installing collected packages: numpy
+Successfully installed numpy-2.0.2

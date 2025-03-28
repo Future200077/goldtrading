@@ -1,0 +1,501 @@
+20250219-175317.216 - AI_Trader - CRITICAL - [MainThread] - System check failed. Aborting initialization.
+20250220-052402.217 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-052402.218 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-052402.218 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-052402.218 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-052402.218 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-052402.218 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-090130.575 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-090130.575 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-090130.575 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-090130.575 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-090130.575 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-090130.575 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-092801.245 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-092801.245 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-092801.245 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-092801.245 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-092801.245 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-092801.245 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-093355.280 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-093355.281 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-093355.281 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-093355.281 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-093355.281 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-093355.281 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-124437.424 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-124437.425 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-124437.425 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-124437.425 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-124437.425 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-124437.425 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-133916.562 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-133916.562 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-133916.562 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-133916.562 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-133916.562 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-133916.562 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-134737.621 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-134737.621 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-134737.621 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-134737.621 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-134737.621 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-134737.621 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140216.438 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140216.438 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140216.438 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140216.438 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140216.438 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140216.438 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140343.518 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140343.518 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140343.518 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140343.518 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140343.518 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140343.518 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140430.759 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140430.759 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140430.759 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140430.760 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140430.760 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140430.760 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140539.419 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140539.419 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140539.419 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-140539.419 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140539.419 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-140539.420 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-150004.569 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-150004.570 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-150004.570 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-150004.570 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-150004.570 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-150004.570 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152058.267 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152058.268 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152058.268 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152058.268 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152058.268 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152058.268 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152254.822 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152254.822 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152254.822 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152254.822 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152254.822 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152254.822 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152604.951 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152604.951 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152604.951 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-152604.952 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152604.952 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-152604.952 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-155057.680 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-155057.680 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-155057.680 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-155057.680 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-155057.681 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-155057.681 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-160101.840 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-160101.841 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-160101.841 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-160101.841 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-160101.841 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-160101.841 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-162619.301 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-162619.301 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-162619.301 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-162619.301 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-162619.301 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-162619.301 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-163751.841 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-163751.841 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-163751.841 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-163751.841 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-163751.841 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-163751.841 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-163900.629 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-163900.629 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-163900.629 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-163900.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-163900.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-163900.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-164555.646 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-164555.647 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-164555.647 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-164555.647 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-164555.647 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-164555.647 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-172331.980 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-172331.980 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-172331.980 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-172331.980 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-172331.980 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-172331.980 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-174527.256 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-174527.256 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-174527.256 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250220-174527.256 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-174527.256 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250220-174527.256 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041121.438 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041121.438 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041121.438 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041121.438 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041121.438 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041121.438 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041241.381 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041241.382 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041241.382 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041241.383 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041241.383 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041241.383 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041406.369 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041406.369 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041406.369 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041406.369 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041406.369 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041406.369 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041536.224 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041536.224 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041536.224 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-041536.224 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041536.224 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-041536.224 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-062623.177 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-062623.178 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-062623.178 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-062623.178 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-062623.178 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-062623.178 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-074050.741 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-074050.741 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-074050.741 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250221-074050.742 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-074050.742 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250221-074050.742 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-065616.586 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-065616.587 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-065616.587 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-065616.587 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-065616.587 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-065616.587 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-070147.127 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-070147.127 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-070147.127 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-070147.128 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-070147.128 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-070147.128 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-070436.384 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-070436.385 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-070436.385 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-070436.385 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-070436.385 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-070436.385 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-071545.880 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-071545.880 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-071545.881 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-071545.881 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-071545.881 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-071545.881 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-072754.823 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-072754.824 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-072754.824 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-072754.824 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-072754.824 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-072754.824 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-074235.874 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-074235.875 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-074235.875 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-074235.875 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-074235.875 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-074235.875 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-075000.377 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-075000.378 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-075000.378 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-075000.378 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-075000.378 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-075000.378 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-103455.929 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-103455.930 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-103455.930 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-103455.930 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-103455.930 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-103455.930 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-104043.926 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-104043.927 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-104043.927 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-104043.927 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-104043.927 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-104043.927 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-104903.059 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-104903.060 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-104903.060 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-104903.061 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-104903.061 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-104903.061 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-111327.120 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-111327.120 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-111327.120 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-111327.120 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-111327.120 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-111327.120 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-114342.629 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-114342.629 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-114342.629 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-114342.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-114342.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-114342.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-115238.359 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-115238.359 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-115238.359 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-115238.359 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-115238.359 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-115238.359 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-115320.374 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-115320.375 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-115320.375 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-115320.375 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-115320.375 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-115320.375 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-133001.693 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-133001.694 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-133001.694 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250223-133001.694 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-133001.694 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250223-133001.694 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-035649.856 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-035649.857 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-035649.857 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-035649.857 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-035649.857 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-035649.857 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-035958.048 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-035958.048 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-035958.048 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-035958.048 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-035958.048 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-035958.048 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-040107.539 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-040107.540 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-040107.540 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-040107.540 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-040107.540 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-040107.540 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-041225.743 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-041225.743 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-041225.743 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-041225.743 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-041225.743 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-041225.743 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-042006.248 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-042006.248 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-042006.248 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-042006.248 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-042006.248 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-042006.248 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-051147.849 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-051147.850 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-051147.850 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250224-051147.850 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-051147.850 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250224-051147.850 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-025027.477 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-025027.478 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-025027.478 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-025027.478 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-025027.478 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-025027.478 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-025324.114 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-025324.115 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-025324.115 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-025324.115 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-025324.115 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-025324.115 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-030800.690 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-030800.690 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-030800.690 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-030800.691 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-030800.691 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-030800.691 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-031534.414 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-031534.414 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-031534.414 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-031534.414 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-031534.414 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-031534.414 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-033040.291 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-033040.291 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-033040.291 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-033040.292 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-033040.292 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-033040.292 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-035653.057 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-035653.057 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-035653.058 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-035653.058 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-035653.058 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-035653.058 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-040439.925 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-040439.925 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-040439.925 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-040439.925 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-040439.925 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-040439.925 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-044624.195 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-044624.195 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-044624.196 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-044624.196 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-044624.196 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-044624.196 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-045650.393 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-045650.393 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-045650.393 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-045650.394 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-045650.394 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-045650.394 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050130.689 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050130.689 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050130.689 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050130.689 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050130.689 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050130.689 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050413.022 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050413.022 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050413.022 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050413.022 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050413.022 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050413.022 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050639.263 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050639.263 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050639.263 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050639.263 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050639.263 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050639.263 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050859.347 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050859.347 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050859.347 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050859.347 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050859.347 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050859.347 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050936.232 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050936.232 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050936.232 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-050936.232 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050936.232 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-050936.232 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-051617.244 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-051617.244 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-051617.244 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-051617.244 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-051617.244 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-051617.244 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-051853.062 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-051853.062 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-051853.062 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-051853.062 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-051853.062 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-051853.062 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-053727.650 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-053727.650 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-053727.650 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-053727.650 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-053727.650 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-053727.650 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-053916.627 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-053916.627 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-053916.627 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-053916.627 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-053916.627 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-053916.627 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-054631.360 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-054631.360 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-054631.360 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250225-054631.360 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-054631.360 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250225-054631.360 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-093337.032 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-093337.032 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-094808.580 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-094808.607 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-095219.292 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-095219.301 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-103736.628 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-103736.629 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-104930.135 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-104930.135 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-105944.148 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-105944.149 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-110915.577 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-110915.577 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-111457.618 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-111457.618 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-111929.869 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-111929.897 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250311-115355.293 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250311-115355.298 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250312-043422.463 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250312-043422.464 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250312-064008.136 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250312-064008.141 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250312-070020.342 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250312-070020.343 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250313-073630.419 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250313-073630.426 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250313-081341.237 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250313-081341.260 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250313-083029.952 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250313-083029.952 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250314-162613.319 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250314-162613.343 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250316-135742.259 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250316-135742.284 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250316-143829.853 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250316-143829.859 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250316-144054.557 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250316-144054.558 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250316-231407.178 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250316-231407.202 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250316-234439.033 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250316-234439.033 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-081244.583 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-081244.614 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-081506.038 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-081506.038 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-081825.799 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-081825.800 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-085031.082 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-085031.082 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-085343.907 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-085343.908 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-091424.139 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-091424.139 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-093326.303 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-093326.304 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-110646.906 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-110646.916 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-111248.265 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-111248.267 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-113647.490 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-113647.511 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-135605.040 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-135605.070 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-142800.872 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-142800.873 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-150834.137 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-150834.143 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250317-152854.796 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250317-152854.797 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250318-115016.272 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250318-115016.292 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250318-121639.165 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250318-121639.192 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250318-125246.531 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250318-125246.532 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250320-133038.447 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250320-133038.467 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250320-140315.961 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250320-140315.961 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250320-224449.525 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250320-224449.545 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled
+20250320-225212.183 - AI_Trader - WARNING - [MainThread] - GPU not available - performance may be degraded
+20250320-225212.184 - AI_Trader - WARNING - [MainThread] - TensorFlow not built with CUDA - GPU acceleration disabled

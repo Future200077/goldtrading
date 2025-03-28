@@ -1,0 +1,11 @@
+Collecting numpy
+  Downloading numpy-2.0.2-cp39-cp39-macosx_14_0_arm64.whl (5.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.3/5.3 MB 10.9 MB/s eta 0:00:00
+Collecting faiss-cpu
+  Downloading faiss_cpu-1.10.0-cp39-cp39-macosx_11_0_arm64.whl (3.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.2/3.2 MB 11.0 MB/s eta 0:00:00
+Collecting packaging
+  Downloading packaging-24.2-py3-none-any.whl (65 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 65.5/65.5 kB 6.8 MB/s eta 0:00:00
+Installing collected packages: packaging, numpy, faiss-cpu
+Successfully installed faiss-cpu-1.10.0 numpy-2.0.2 packaging-24.2
